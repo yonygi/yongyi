@@ -149,17 +149,18 @@ nav {
     align-items: center;
 }
 
-#logo{
+/* #logo{
     margin-left: 130px;
     margin-right:10px;
     width:100px;
     height:100px;
-}
+} */
 
 nav ul {
     -webkit-transition: 1s;
     transition: 1s;
-    margin-right: 120px;
+    margin-right:45px;
+    /* with logo - margin-right: 120px; */
     padding: 0;
     list-style: none;
 }
