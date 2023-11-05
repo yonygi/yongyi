@@ -71,7 +71,6 @@ h2::before {
     box-shadow: -1rem 1rem 1rem rgba(0, 0, 0, 0.4);
 }
 
-
 h3 {
     font-size: 34px;
 }
@@ -150,10 +149,17 @@ nav {
     align-items: center;
 }
 
+#logo{
+    margin-left: 130px;
+    margin-right:10px;
+    width:100px;
+    height:100px;
+}
+
 nav ul {
     -webkit-transition: 1s;
     transition: 1s;
-    margin: 0;
+    margin-right: 120px;
     padding: 0;
     list-style: none;
 }
